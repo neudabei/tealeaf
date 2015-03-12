@@ -1,0 +1,16 @@
+puts "Please enter a number between 0 and 100"
+
+number = gets.chomp.to_i
+
+case number 
+
+when < 0
+  puts "#{number} has to be greater than 0"
+
+when >= 50
+  puts "#{number} is between 0 and 50"
+
+when < 100
+  puts "#{number} is greater than 100"
+  
+end
