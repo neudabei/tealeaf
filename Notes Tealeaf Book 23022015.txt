@@ -1,3 +1,0 @@
-Notes Tealeaf Book 23022015
-
-File.readlines("file_name") - Reads the entire file based on individual lines and returns those lines in an array.
